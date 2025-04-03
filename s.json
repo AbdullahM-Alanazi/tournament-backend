@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1694785359024,
+    "name": "Abdullah Alanazi",
+    "type": "Single Elimination",
+    "game": "Football",
+    "teams": [
+      [
+        null,
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        null,
+        null
+      ]
+    ],
+    "results": [
+      [
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      [
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      [
+        [
+          -1,
+          -1
+        ]
+      ]
+    ],
+    "dates": {
+      "startDate": "9/15/2023",
+      "endDate": "9/18/2023"
+    }
+  },
+  {
+    "id": 1694785559759,
+    "name": "Trail one",
+    "type": "Single Elimination",
+    "game": "Football",
+    "teams": [
+      [
+        "Team1",
+        "Team2"
+      ],
+      [
+        "Team3",
+        "Team4"
+      ],
+      [
+        "Team5",
+        "Team6"
+      ],
+      [
+        "Team7",
+        "Team8"
+      ]
+    ],
+    "results": [
+      [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      [
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      [
+        [
+          -1,
+          -1
+        ]
+      ]
+    ],
+    "dates": {
+      "startDate": "9/15/2023",
+      "endDate": "9/20/2023"
+    }
+  }
+]
